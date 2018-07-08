@@ -1,0 +1,29 @@
+{"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Procedural Tree Component",
+	"Description": "",
+	"Category": "Rendering",
+	"CreatedBy": "Elhoussine Mehnik",
+	"CreatedByURL": "http://ue4resources.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://twitter.com/HoussineMehnik",
+	"CanContainContent": false,
+	"EnabledByDefault": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules" :
+	[
+		{
+			"Name" : "ProceduralTree",
+			"Type" : "Runtime",
+			"LoadingPhase" : "Default"
+		},
+		{
+			"Name" : "ProceduralTreeEditor",
+			"Type" : "Editor",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
